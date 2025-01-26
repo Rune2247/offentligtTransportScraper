@@ -1,0 +1,15 @@
+{
+	"name": "from2",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"express": "^4.17.1",
+		"node-cron": "^3.0.0",
+		"puppeteer": "^24.1.0",
+		"sqlite3": "^5.0.2"
+	},
+	"devDependencies": {}
+}
