@@ -1,4 +1,3 @@
-
 # Node.js dependencies
 node_modules/
 
@@ -18,3 +17,6 @@ coverage/
 
 # Miscellaneous
 .DS_Store
+
+# SQL files
+*.sql
